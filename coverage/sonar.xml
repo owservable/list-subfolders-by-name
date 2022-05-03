@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testExecutions version="1">
+    <file path="test\list.subfolders.by.name.spec.ts">
+        <testCase name="getSubfoldersByName tests expect test\functions" duration="1"/>
+        <testCase name="getSubfoldersByName tests expect src\functions" duration="1"/>
+    </file>
+</testExecutions>
